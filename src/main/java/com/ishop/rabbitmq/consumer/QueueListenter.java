@@ -1,4 +1,4 @@
-package com.ishop.test;
+package com.ishop.rabbitmq.consumer;
 
 import org.springframework.amqp.core.Message;
 import org.springframework.amqp.core.MessageListener;
